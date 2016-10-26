@@ -1,0 +1,20 @@
+Michael Hanna
+Extra Credit Explanation - My Extra New Recipe
+
+General Changes:
+1.  Changed entire recipe ingredients and intructions list.
+2.  Changed and re-coded image as an Alfredo dish to match recipe.
+
+DOM Transversal/jQuery Addition:
+1.  Included general DOM (next) transversal for fading in text lists.
+2.  I added a click function for H2; when a user clicks the top heading ("Creamy Fettuccine Alfredo with Broccoli"), a dialog box appears thanking the user for checking out the recipe.
+
+CSS Changes:
+1.  Changed heading text type to Georgia.
+2.  Changed header background to dark green to match image.
+3.  Changed body background from ivory to a light green to compliment broccoli.
+4.  Center-aligned bidy text; changed font style to Georgia and Courier.
+5.  Changed padding within body to increase space surrounding text lists.
+
+Animation Event:
+1.  Changed ingredients and instructions lists to appear "fast" instead of "slow".
